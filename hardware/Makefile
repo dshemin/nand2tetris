@@ -1,2 +1,1 @@
-grade:
-	nand2tetris grade
+include ../common.mk
